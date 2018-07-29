@@ -17,7 +17,7 @@
 #include "cbor/floats_ctrls.h"
 #include "cbor/ints.h"
 #include "cbor/maps.h"
-#include "cbor/strings.h"
+#include "cbor/cbor_strings.h"
 #include "cbor/tags.h"
 
 #include "cbor/encoding.h"

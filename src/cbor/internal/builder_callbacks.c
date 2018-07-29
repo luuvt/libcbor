@@ -13,7 +13,7 @@
 #include "../floats_ctrls.h"
 #include "../ints.h"
 #include "../maps.h"
-#include "../strings.h"
+#include "../cbor_strings.h"
 #include "../tags.h"
 
 void _cbor_builder_append(cbor_item_t *item, struct _cbor_decoder_context *ctx)

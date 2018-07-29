@@ -6,7 +6,7 @@
  */
 
 #include <string.h>
-#include "strings.h"
+#include "cbor_strings.h"
 #include "internal/memory_utils.h"
 
 cbor_item_t *cbor_new_definite_string()

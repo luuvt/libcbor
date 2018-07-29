@@ -12,7 +12,7 @@
 #include "floats_ctrls.h"
 #include "ints.h"
 #include "maps.h"
-#include "strings.h"
+#include "cbor_strings.h"
 #include "tags.h"
 
 bool cbor_isa_uint(const cbor_item_t *item)
